@@ -1,2 +1,2 @@
-# Cronometro-Simples
- Um cronômetro simples feito com o módulo time e a lib tkinter
+# Cronometro
+ Um cronômetro feito com o módulo time e a lib tkinter
